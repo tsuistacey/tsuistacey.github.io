@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Work
 nav: true
-nav_order: 6
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: In English
+      permalink: /in_eng/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: 中文
+      permalink: /in_chi/
 ---
